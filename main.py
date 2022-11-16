@@ -1,5 +1,4 @@
 import os
-import xlsxwriter
 import pandas as pd
 
 teamDict = {
